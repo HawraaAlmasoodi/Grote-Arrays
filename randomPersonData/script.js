@@ -2,7 +2,7 @@
 
 const lijst = document.querySelector(".lijst");
 
-// Subopdracht: Landenlijst
+// Subopdracht: Landenlijst.
 
 const landen = randomPersonData.map(array => {
     return array.region;
